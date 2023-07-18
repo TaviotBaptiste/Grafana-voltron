@@ -29,7 +29,7 @@
 
 ## :dart: About ##
 
-Using [Docker](https://www.docker.com/) with [Grafana](https://hub.docker.com/r/grafana/grafana) for a POC.
+Using [Docker](https://www.docker.com/) with [Grafana](https://hub.docker.com/r/grafana/grafana) for a POC. This repo keeps the history of this small POC. It contains no code
 ## :sparkles: Features ##
 
 :heavy_check_mark: Check the actual Temperature, Humidity or CO2 from the CSV ;\
